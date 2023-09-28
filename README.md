@@ -2,6 +2,10 @@
 
 Proof of concept for polygon zones in Home Assistant.
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
+<img width="949" alt="Zrzut ekranu 2023-09-28 193331" src="https://github.com/Baael/polygon-zone/assets/38595/8678678a-86fe-4355-a290-50201dd2274e">
+
 Whipped up quickly, so it needs optimization, refactoring, cleaning up, and possibly a complete rewrite from scratch.
 
 It's based on using [shapely](https://pypi.org/project/shapely)

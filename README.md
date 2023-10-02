@@ -4,7 +4,9 @@ Proof of concept for polygon zones in Home Assistant.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-<img width="949" alt="Zrzut ekranu 2023-09-28 193331" src="https://github.com/Baael/polygon-zone/assets/38595/8678678a-86fe-4355-a290-50201dd2274e">
+<img width="980" alt="Zrzut ekranu 2023-10-02 085400" src="https://github.com/Baael/polygon-zone/assets/38595/d9de9c49-3155-4856-ad80-8208b4f68527">
+
+
 
 Whipped up quickly, so it needs optimization, refactoring, cleaning up, and possibly a complete rewrite from scratch.
 

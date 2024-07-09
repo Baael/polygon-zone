@@ -1,4 +1,5 @@
 # This code is just an example; it will not work with Home Assistant. Do not install it!
+Please check this discussion: https://github.com/home-assistant/architecture/discussions/1014
 
 # polygon-zone
 

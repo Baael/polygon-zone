@@ -1,3 +1,5 @@
+# This code is just an example; it will not work with Home Assistant. Do not install it!
+
 # polygon-zone
 
 Proof of concept for polygon zones in Home Assistant.
